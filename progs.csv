@@ -68,44 +68,45 @@ G,https://github.com/james-ralph8555/dwm.git,runs commands and provides a UI for
 A,apple-fonts,"allows you to lock your computer, and quickly unlock with your password."
 A,jellyfin-media-player,is a utility which establishes two byte streams and transfers data between them.
 A,powerline-fonts-git,is a collection of useful unix tools.
-A,ttf-ms-fonts
-A,virtio-win
-A,vim-plug
-A,tremc
-,steam
-,bluez-utils
-,brightnessctl
-,docker
-,easyeffects
-,go
-,groff
-,kdeconnect
-,man-pages
-,minted
-,nextcloud-client
-,nodejs-lts-gallium
-,openmw
-,pigz
-,pv
-,rsync
-,ripgrep
-,samba
-,ruby
-,smartmontools
-,spotifyd
-A,spotify-tui
-,ttf-opensans
-,ttf-ibm-plex
-,ttf-dejavu
-,ttf-fira-code
-,ttf-roboto
-,valgrind
-,virt-install
-,virt-manager
-,virt-viewer
-,wine
-,wine-mono
-,winetricks
-,wireguard-tools
-,zip
-,p7zip
+A,ttf-ms-fonts,is a collection of ms fonts
+A,virtio-win,virtio driver
+A,vim-plug,vim plugins
+A,tremc,terminal transmission interface
+,steam,steam
+,bluez-utils,bluetooth
+,brightnessctl,monitor brightness control
+,docker,docker
+,easyeffects,easyeffects
+,go,go
+,groff,groff
+,kdeconnect,kdeconnect
+,man-pages,man-pages
+,minted,minted
+,nextcloud-client,nextcloud-client
+,nodejs-lts-gallium,nodejs-lts-gallium
+,openmw,openmw
+,pigz,pigz
+,pv,pv
+,rsync,rsync
+,ripgrep,ripgrep
+,samba,samba
+,ruby,ruby
+,smartmontools,smartmontools
+,spotifyd,spotifyd
+A,spotify-tui,spotify-tui
+,ttf-opensans,ttf-opensans
+,ttf-ibm-plex,ttf-ibm-plex
+,ttf-dejavu,ttf-dejavu
+,ttf-fira-code,ttf-fira-code
+,ttf-roboto,ttf-roboto
+,valgrind,valgrind
+,virt-install,virt-install
+,virt-manager,virt-manager
+,virt-viewer,virt-viewer
+,wine,wine
+,wine-mono,wine-mono
+,winetricks,winetricks
+,wireguard-tools,wireguard-tools
+,zip,zip
+,p7zip,p7zip
+A,libxft-bgra,libxft-bgra
